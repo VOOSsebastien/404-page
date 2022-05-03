@@ -9,14 +9,14 @@ img{
 }
 h1{
     text-align:center;
-    font-size:800%;
+    font-size:675%;
     margin-bottom:15px;
 
 }
 h2{
     text-align:center;
-    font-size:400%;
-    margin-bottom:90px;
+    font-size:350%;
+    margin-bottom:0px;
     margin-top:15px;
 }
 IMG{
@@ -26,14 +26,22 @@ IMG{
 }
 p{
     text-align:center;
-    background-color: red;
-    margin-left:15px;
-    margin-right:15px;
-    padding:15px;
+    /*background-color: red;*/
+    margin:5px 5px 5px 5px;
+    padding:0px;
+    font-size:200%;
+    
 }
 a{
     display:block;
     margin-left:auto;
     margin-right:auto;
 
+}
+.bouton{
+    background-image:url(https://media.giphy.com/media/rULGb0wtaeAEM/giphy.gif);
+    background-size:cover;
+    height: 190px;
+    width: 190px;
+    background-position:center;
 }
